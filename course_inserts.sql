@@ -1,3 +1,5 @@
+Use university;
+
 DROP TABLE IF EXISTS Course;
 
 CREATE TABLE Course (
